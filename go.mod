@@ -1,4 +1,4 @@
-module golang.org/x/lint
+module github.com/pingyeaa/lint
 
 go 1.11
 
